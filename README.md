@@ -1,4 +1,4 @@
-# module_7: Clusters: 
+# module _ 10 : Clusters: 
 ### This code was done through the help of Shah, Pablo, also spoke to Kayla about the assignemnt. Furthermore, I also reference homework assignments and other inclass homework 
 ### Steps for the code: 
 1. Called in my original dataframe which consisted of % change of crypto prices
