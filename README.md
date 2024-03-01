@@ -1,5 +1,5 @@
 # module _ 10 : Clusters: 
-### This code was done through the help of Shah, Pablo, also spoke to Kayla about the assignemnt. Furthermore, I also reference homework assignments and other inclass homework 
+### This code was done through the help of Shah, Pablo, and also received support from Kayla. Furthermore, I also referenced homework assignments and other inclass assignments pertaining to PCA to complete my code. The homeworks I used were from Unsupervised Learning Folder. 
 ### Steps for the code: 
 1. Called in my original dataframe which consisted of % change of crypto prices
 2. Plotted my dataframe to se what's inside 
