@@ -13,4 +13,4 @@
 10. Refit my df_pca_market_concat 
 11. Plotted my PCA data. 
 
-#### Findings: The impact of using fewer features to cluster the data results in data that's more concentrated between -2 to 2 PCA1 and -2 to 2 for PCA2 with Fitted predicted clusters of 3 & 0 being extremely close together. This is not the same for the graph on the left where there is both 0,1, and 3 present. Both are hyper concentrated. The cluster that is common in both is that predicted cluster of 0 is most common in both. 
+#### Findings:The impact of using fewer features to cluster the data results is that predicted clusters becomes less concentrated from 1 to being split between 0 and 3 (see graph on the right). By using fewer features, we can concentrate into a more specific set of clusters (graph on the right) vs. on the left which is 0 & 1. Therefore, using lesser features to cluster the data is more beneficial to observe patterns and trends. 
